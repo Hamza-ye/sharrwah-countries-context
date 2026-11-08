@@ -1,6 +1,6 @@
 > **Source:** `sharrwah-knowledge-map@caad5aa1a052b74b05e34ea0edb3b3336727c149:yemen-setup-options/notes/banks_exchange_cards.md`  
 > **Written:** 9 October 2026 (research date stated in the original; committed 10 October 2026). Earlier research, not reviewed since; re-verify before use.  
-> **Excerpt:** the title, the reading notes and Q1–Q5 (Takeaway, Cited Findings and Gaps), copied verbatim. Omitted: every "Inferences" subsection, the scope paragraph, Q5's Takeaway, and 9 further passages: the reading note about the omitted Inferences, five passages on what a platform could do, two items naming individual developers' code packages, and one item sourced from a reference platform's forum.
+> **Excerpt:** the title, the reading notes and Q1–Q5 (Takeaway, Cited Findings and Gaps), copied verbatim. Omitted: every "Inferences" subsection, the scope paragraph, Q5's Takeaway, and 9 further passages: the reading note about the omitted Inferences, five passages on what a platform could do (and one clause of Q1's Takeaway, elided as […]), two items naming individual developers' code packages, and one item sourced from a reference platform's forum.
 
 ---
 
@@ -17,7 +17,7 @@ How to read these notes:
 ### Takeaway
 Banks reach only a small minority of Yemenis: about 4.8% of adults hold deposits, and account ownership of any kind, wallets included, is about 9%. There is still no interbank instant-payment system. CBY-Aden approved a fast payment system (FPS) operator company and a mandatory national QR standard in March 2026, but these are not yet live. In practice, "bank payment" today means one of two things:
 - an intra-bank transfer inside one large bank's app, mostly Al-Kuraimi (KJ / Mfloos), Tadhamon and a few others;
-- a bank-run merchant API. Kuraimi's "E-Payment" API, in which a buyer approves a payment from the Kuraimi app, is the clearest example of a payment-reference integration a platform could plug into.
+- a bank-run merchant API. Kuraimi's "E-Payment" API, in which a buyer approves a payment from the Kuraimi app, is the clearest example […].
 
 The 2024–2025 sanctions shocks were the OFAC designations of Yemen Kuwait Bank (YKB) and International Bank of Yemen (IBY), the March 2025 US designation of the Houthis as a Foreign Terrorist Organization (FTO), and the forced relocation of bank headquarters to Aden. Together they make a bank's reliability depend on which authority it answers to.
 
